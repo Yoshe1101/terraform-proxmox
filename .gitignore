@@ -1,0 +1,4 @@
+.terraform.lock.hclcd
+/.terraform
+credentials.auto.tfvars
+terraform.state
