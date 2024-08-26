@@ -38,7 +38,7 @@ resource "proxmox_vm_qemu" "your-vm" {
 
     # (Optional) IP Address and Gateway
     # ipconfig0 = "ip=0.0.0.0/0,gw=0.0.0.0"
-    ipconfig0 = "ip=192.168.50.231/0,gw=192.168.50.1"
+    ipconfig0 = "ip=192.168.50.230/24,gw=192.168.50.1"
     # (Optional) Default User
     ciuser = "ubuntu"
     

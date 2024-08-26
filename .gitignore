@@ -1,4 +1,6 @@
-.terraform.lock.hclcd
+.terraform.lock.hcl
 /.terraform
 credentials.auto.tfvars
-terraform.state
+terraform.tfstate
+terraform.tfstate.backup
+.terraform.lock.info
