@@ -5,3 +5,5 @@ https://github.com/Telmate/terraform-provider-proxmox/blob/master/examples/cloud
 
 ##ProxMox ubuntu-cloud template creation based on:
 https://technotim.live/posts/cloud-init-cloud-image/
+
+

@@ -2,5 +2,14 @@
 /.terraform
 credentials.auto.tfvars
 terraform.tfstate
-terraform.tfstate.backup
+terraform.tfstate.bac
 .terraform.lock.info
+
+/ubuntu-vm-module/.terraform.lock.hcl
+/ubuntu-vm-module//.terraform
+/ubuntu-vm-module/credentials.auto.tfvars
+/ubuntu-vm-module/terraform.tfstate
+/ubuntu-vm-module/terraform.tfstate.bac
+/ubuntu-vm-module/.terraform.lock.info
+
+env-vars.sh
